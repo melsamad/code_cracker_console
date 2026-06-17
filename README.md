@@ -26,6 +26,17 @@ The console is turned on. Once it is, the user gives it to his opponent, who wil
 - some sort of box or body for the console
 - art tools to really make it feel like you!
 
+## 3D Model
+
+Find the full 3D model (here)[https://cad.onshape.com/documents/b488efd8ceefd9861cc477bf/w/53b2ec3882eb2ce6429910d9/e/bfc96b98d67b43bed1ac08e5?renderMode=0&uiState=6a331176dfe1f28658a9ef0b]
+
+<img width="1087" height="772" alt="Screenshot 2026-06-18 at 12 29 02 AM" src="https://github.com/user-attachments/assets/83b821e0-b6a5-4cbd-bcc9-c30567473cdb" />
+
+## Circuit (Tinkercad)
+
+<img width="1087" height="772" alt="Screenshot 2026-06-18 at 12 29 54 AM" src="https://github.com/user-attachments/assets/bab971fe-e3d2-4846-87c7-20294850548c" />
+
+
 ## BOM (Bill Of Materials)
 
 All components can be found at any electronics store and Arduino learning kits (first thing I ever bought to get into hardware!) 
