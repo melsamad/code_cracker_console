@@ -34,6 +34,7 @@ Find the full 3D model [here](https://cad.onshape.com/documents/b488efd8ceefd986
 
 ## Circuit (Tinkercad)
 
+You can also fint it [here](https://www.tinkercad.com/things/0hk3RXVjEtS-code-cracker?sharecode=_kKq5_84vMyC2fsW77Jfon-yHiKRnuw90B278CqT3yU)
 <img width="1087" height="772" alt="Screenshot 2026-06-18 at 12 29 54 AM" src="https://github.com/user-attachments/assets/bab971fe-e3d2-4846-87c7-20294850548c" />
 
 
