@@ -1,4 +1,4 @@
-# code_cracker_console
+# Code Cracker Game Console
 Code cracker game but on a console! (you technically need two?)
 
 ## Inspiration
